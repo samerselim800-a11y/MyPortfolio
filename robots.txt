@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://samer-portfolio.netlify.app/sitemap.xml
+
+# Crawl-delay (optional, some bots respect this)
+Crawl-delay: 10
